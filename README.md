@@ -1,9 +1,8 @@
 # Cars Market
 
-
+- Pull to refresh
 - Cards
 - Tab Bar
-- Pull to refresh
 - Objects
 
 ![This is an image](assets/readme/cars_market.png)
